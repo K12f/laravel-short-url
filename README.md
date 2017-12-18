@@ -1,2 +1,2 @@
-# laravel-short-url
-use laravel realizing a short url web site
+# short-url
+php short-url
